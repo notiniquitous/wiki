@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://wiki.iniquitous.pw/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wiki"
 theme="learn"
+publishDir = "docs"
